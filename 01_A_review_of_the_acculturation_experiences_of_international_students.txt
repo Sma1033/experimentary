@@ -1,0 +1,584 @@
+International Journal of Intercultural Relations 35 (2011) 699¡V713
+
+
+Contents lists available at SciVerse ScienceDirect
+
+
+International Journal of Intercultural Relations
+
+j o u r n a l  h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / i j i n t r e l
+
+
+Review
+
+A review of the acculturation experiences of international students
+
+Rachel A. Smith, Nigar G. Khawaja
+
+School of Psychology and Counselling, Queensland University of Technology, Queensland, Australia
+
+
+
+a r t i c l e	i n f o	a b s t r a c t
+
+
+
+Article history:
+
+Received 20 August 2010
+
+Received in revised form 6 June 2011 Accepted 17 July 2011
+
+
+Keywords:
+
+Acculturation models
+
+International student
+
+Coping
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+Universities in Western countries host a substantial number of international students. These students bring a range of benefits to the host country and in return the students gain higher education. However, the choice to study overseas in Western countries may present many challenges for the international student including the experience of acculturative stress and difficulties with adjustment to the environment of the host country. The present paper provides a review of current acculturation models as applied to international students. Given that these models have typically been empirically tested on migrant and refugee populations only, the review aims to determine the extent to which these models char-acterise the acculturation experience of international students. Literature pertaining to salient variables from acculturation models was explored including acculturative stres-sors encountered frequently by international students (e.g., language barriers, educational difficulties, loneliness, discrimination, and practical problems associated with changing environments). Further discussed was the subsequent impact of social support and coping strategies on acculturative stress experienced by international students, and the psycho-logical and sociocultural adaptation of this student group. This review found that the international student literature provides support for some aspects of the acculturation mod-els discussed; however, further investigation of these models is needed to determine their accuracy in describing the acculturation of international students. Additionally, prominent acculturation models portray the host society as an important factor influencing interna-tional students¡¦ acculturation, which suggests the need for future intervention.
+
+
+
+
+1.	Introduction . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	700
+
+2.	Acculturation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	700
+
+3.	Possible acculturative stressors encountered by international students . . . . . . . . . . .  . . . . . . . . . .	702
+
+3.1.	Language . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	702
+
+3.2.	Educational stressors . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	702
+
+3.3.	Sociocultural stressors . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	703
+
+3.4.	Discrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . .	704
+
+3.5.	Practical stressors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	704
+
+4.	Acculturative life changes, appraisal, and coping in international students . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . .	704
+
+4.1.	Cognitive appraisal of life changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	705
+
+4.2.	Coping in response to acculturative stressors . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . .	705
+
+4.2.1.	Underutilisation of student counselling services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	705
+
+5.	Acculturative stress of international students . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . .	706
+
+6.	The buffering effect of social support on acculturative stress and depression . . . . . . . . . . . . . . . . .	707
+
+7.	Interventions/programs to aid acculturation in international students . . . . . . . . . . . . . . . . .  . . . . . . . .	708
+
+7.1.	Behavioural interventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	708
+
+7.2.	Multicultural intervention to improve social ties . . . . . . . . . . . . . . . . . .  . . . . . . . . .	709
+
+7.3.	Support program for Asian international students . . . . . . . . . . . . . . . . . .. . . . .	709
+
+8.	Future directions for research . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . .	709
+
+8.1.	Acculturation models and international students . . . . . . . . . . . . . . . . . . . . . . . .. . . . .	709
+
+8.2.	Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	710
+
+8.3.	Interventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	710
+
+9.   Conclusion . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  710 
+
+References . . . . . . . . . . .. . . . . . . . . . .  710
+
+
+
+
+1.  Introduction
+
+   In 2008, there were more than 3.3 million tertiary international students worldwide (OECD, 2010). Over half of all ter-tiary international students choose to study in the United States of America (U.S.A.) (19%), the United Kingdom (U.K.) (10%), Germany (7%), France (7%), and Australia (7%) (OECD, 2010). Other countries hosting significant numbers of international students include Canada, Japan, Italy, and Russia (OECD, 2010). International students are an important financial commod-ity for these countries contributing approximately $19 billion (U.S. dollars) annually to each of the Australian and U.S. economies, followed by $14 billion to the U.K. economy (Australian Education International, 2010; NAFSA, 2010; UK Council for International Student Affairs, 2010).
+
+   International students are not only a valuable financial asset to universities in developed countries, they are individuals who also enrich these countries with their diverse heritage and perspectives, thus, serving to increase cultural awareness and appreciation (Bevis, 2002; Harrison, 2002). International students bring with them a wide range of knowledge and skills across many disciplines, thereby contributing to the intellectual capital of their host country and adding to the work force. Whilst it could be argued that their stay is mutually beneficial as they bring a range of assets to their host country and in return gain higher education, a number of factors impact upon international students¡¦ acculturation; whereby acculturation is the process of change that takes place as a result of two or more cultures coming into contact (Berry, 2005). Moving to a foreign country to study brings many potential challenges, and international students may experience acculturative stress (i.e., stress resulting from life changes in the acculturation process; Berry, 2006) and adjustment problems.
+
+   While literature reviews have previously investigated the array of stressors that international students face (e.g., Andrade, 2006; Chen, 1999; Mori, 2000), the subsequent expansion of literature in this area in the past decade highlights the need for another review integrating this recent research. Furthermore, there is an ongoing need to refine dominant acculturation models in the general acculturation literature and apply them to international students, as the majority of the acculturation models are related to immigrants and refugees. A recently published systematic review (Zhang & Goodson, 2011) examined the predictors of international students¡¦ psychosocial adjustment in the U.S.A. across 64 studies. Although this review pro-vided an important analysis of the literature, the findings were not thoroughly discussed in relation to acculturation models. The authors in their review did state the theoretical framework employed in each study, which included acculturation models, however, the findings were not specifically used to critique the models or theories. Additionally, by only focusing on studies conducted in the U.S.A., the review ignored important contributions from other countries. Zhou, Jindal-Snape, Topping, and Todman (2008) reviewed the central acculturation models in the literature and applied them specifically to international students, in which each model was discussed briefly. Whilst this was an important addition to the literature, there is a need to review the literature again to include emerging acculturation models and a more comprehensive discussion of the international student literature.
+
+
+	A number of strategies were used to identify relevant literature for the current review. For example, computer searches for relevant journal articles were conducted using the search engine EBSCO Host with title words ¡¥international student¡¦, ¡¥foreign student¡¦ or ¡¥overseas student¡¦. The overall search resulted in a total of 94 studies, including 13 qualitative studies and 81 quantitative studies considered in the review presented below.
+
+   In the current review, the theoretical background of acculturation specifically in relation to international students is discussed initially. Drawing upon leading acculturation models, the range of potential stressors that international students face when studying abroad, and their coping mechanisms will then be considered. The impact of acculturative stress on international students and recent attempts to enhance the adjustment and acculturation of international students through various programs are examined also. Finally, gaps in the literature are highlighted in order to suggest future research directions.
+
+
+2.  Acculturation
+
+   Before commencing a review of the stressors impacting international students it is important to discuss the concept of acculturation. The increase in migration over the past century has prompted researchers to explore the processes that immigrants go through when settling in a foreign country, leading to the development of acculturation models. Initially acculturation was conceptualised as a uni-dimensional model focusing on the migrant only, and it was theorised that the migrant underwent a process of discarding their cultural heritage and adopting the host country¡¦s culture (Schwartz, Unger, Zamboanga, & Szapocznik, 2010). However, over the past three decades researchers have conceptualised acculturation as a bi-dimensional process. For instance, pioneers of acculturation research such as Berry and colleagues (e.g., Berry, 1992, 1997, 2005, 2006; Berry & Kim, 1988; Berry, Kim, Minde, & Mok, 1987; Williams & Berry, 1991) have defined acculturation as ¡§the dual process of cultural and psychological change that takes place as a result of contact between two or more cultural groups and their individual members¡¨ (Berry, 2005, p. 698). In Berry¡¦s (2005) definition of acculturation, changes are said to be co-occurring on an individual level (psychological acculturation) and on a group level (cultural acculturation) in both cultures. For example, acculturative change occurs in international students as well as in their host culture. Berry (1997) also developed a taxonomy to describe acculturation attitudes of both host and migrant groups, identifying four acculturation attitudes (integration, assimilation, separation, and marginalisation), which subsequent acculturation models have commonly incorporated.
+
+
+   A number of acculturation models have been developed and debated in an attempt to depict the key factors impacting on the acculturation process. Ward, Bochner, and Furnham (2001) distinguished between three different approaches to the study of acculturation (termed the ABC¡¦s of acculturation): the stress and coping framework, the cultural learning approach, and the social identification perspective, with each approach emphasising affective, behavioural, or cognitive changes respectively in the psychological acculturation process. A stress and coping framework for acculturation was first developed by Berry (1997), Berry (2006) to explain the factors affecting acculturative stress and adaptation, drawing on broad models of stress and coping, such as Folkman¡¦s (1984) stress model. In the framework, Berry conceptualises the psychological acculturation experience as a significant life event that involves a number of life changes. These changes are cognitively appraised by the individual and may be viewed as benign or as opportunities (thus not a source of acculturative stress), or alternatively as difficulties and therefore classified as acculturative stressors (Berry). When faced with an acculturative stressor, a further appraisal occurs regarding whether the individual has sufficient coping resources/strategies to overcome the stressor. If adequate coping strategies are employed, the acculturative stress experienced may be low; however, if the coping strategies are not sufficient to overcome the stressor or maladaptive coping is used, the acculturative stress experienced may be higher, and in severe cases may manifest as psychopathology such as depression and anxiety (Berry).
+
+
+   According to Berry (1997), Berry¡¦s (1997, 2006) acculturative stress and adaptation framework, the long-term goal is to achieve adaptation, which is defined as ¡§the relatively stable changes that take place in an individual or group in response to external demands¡¨ (Berry, 2006, p. 52). Ward and colleagues were the first to make the distinction between two types of adaptation: psychological and sociocultural (Searle & Ward, 1990; Ward & Kennedy, 1992, 1993a). Psychological adaptation concerns affective responses including a sense of well-being and self-esteem, as well as physical well-being (Ward, Bochner, & Furnham, 2001). Sociocultural adaptation is based on behavioural responses related to how effectively an individual links in to the new society, such as competence in managing tasks required for daily intercultural living (Ward, et al.)
+
+   Ward et al. (2001) expanded on Berry¡¦s (1997, 2006) framework to integrate both the stress and coping, cultural learning, and social identification perspectives. Along with coping strategies, this model also incorporates the acquisition of culture-specific behavioural skills as impacting on sociocultural adaptation, distinguishing between psychological and sociocultural adaptation. Additionally, cultural and social identities are included as predictor variables. Arends-Toth and van de Vijver (2006) and Safdar, Lay, and Struthers (2003) have also developed comprehensive acculturation models which integrate the three theoretical approaches to studying acculturation. Consistent with Berry and Ward et al.¡¦s models, both of these models also consider individual characteristics, characteristics of the larger society, and hassles or stressors as predictor variables; however, Arends-Toth and van de Vijver¡¦s model includes the predictor variable of characteristics of the society of origin also. The acculturation outcomes in both models are psychological and sociocultural adaptation, and additionally both models include acculturation attitudes as a central component connecting the predictor variables and outcomes. Safdar and colleagues¡¦ multidimensional individual difference acculturation (MIDA) model was tested longitudinally on international students (see Rasmi, Safdar, & Lewis, 2009), revealing that the predictor variables of hassles and psychosocial resources do predict the outcome variables of psychological and sociocultural adaptation.
+
+   Further acculturation models have been developed, which shift from the host society depicted as a peripheral factor, as in the four abovementioned models, to a central component influencing the migrant¡¦s acculturation. Bourhis, Moise, Perreault, and Senecal (1997) developed the interactive acculturation model (IAM), which emphasises not only the acculturation atti-tudes of the migrant, but additionally their interaction with the acculturation attitudes favoured by the host society. This interaction yields consensual, problematic, or conflicting relational outcomes (encompassing the affective, behavioural, and cognitive changes in the psychological acculturation process). Additionally, the IAM accentuates that government immi-gration policies can strongly influence host and migrant acculturation attitudes. Piontkowski, Rohmann, and Florack (2002) expanded on the IAM to develop the concordance model of acculturation (CMA), which specifically outlines four concordance outcomes (consensual, culture-problematic, contact-problematic, and conflictual) produced from different possibilities of match or mismatch between the host and migrant acculturation attitudes. Navas et al. (2005) devised the relative accultura-tion extended model (RAEM) based on Berry¡¦s taxonomy of acculturation attitudes, the IAM, and the CMA. The distinguishing factor of this model is the depiction of several sociocultural domains across which the acculturation attitudes preferred and adopted by the host and migrant interact and can vary (e.g., assimilation in the workplace, separation for religious beliefs). It is noteworthy that amongst the seven acculturation models discussed above, the MIDA is the only model to be empirically tested on international students by Rasmi et al. (2009), highlighting a need for the other acculturation models to be tested using this student population.
+
+   The purpose of the current review is to discuss the psychological acculturation experience of international students¡¦ in-line with the salient acculturation models in the literature. None of the seven models abovementioned were specifically designed to describe the acculturation experience of international students, thus, it is important to explore the degree to which these models fit the literature for this student group. The models developed by Berry (1997, 2006), Ward et al. (2001), Safdar et al. (2003), and Arends-Toth and van de Vijver (2006) identify a number of group factors (e.g., society of origin and society of settlement characteristics) and/or individual factors (e.g., personality, demographic variables, migration motiva-tion, acculturation strategy, length of stay, coping, ethnic identity, and social support) occurring both prior to and during acculturation that can impact on the psychological acculturation process. Ideally group and individual factors need to be tar-geted to enhance the acculturation of international students, which would encompass societal, organisational, and individual changes. However, initially it is important to understand the stressors, coping strategies, and social support of international students, and the corresponding relationship with acculturative stress and adaptation, as these are central components of the four acculturation models. In addition these aspects may serve as points of intervention, enabling health professionals to assist international students. Finally, as the IAM, CMA, and RAEM emphasise, the host society is of central importance to the acculturation of the migrant; therefore, interventions developed by host countries to enhance the psychological and sociocultural adaptation of international students are explored.
+
+
+
+3.  Possible acculturative stressors encountered by international students
+
+   Based on the acculturation models by Arends-Toth and van de Vijver (2006), Berry (1997, 2006), Safdar et al. (2003), and Ward et al. (2001), it is reasonable to expect that an international student may encounter a range of life changes as a result of being in a new culture. These changes have the potential to become stressors, or hassles as termed in Safdar et al.¡¦s (2003) model, if they are appraised by an international student as being a difficulty. The following section reviews the frequently documented acculturative stressors within the international student literature.
+
+3.1.  Language
+
+   A major acculturation stressor that international students face is a language barrier. Chen (1999) argues that second language anxiety is a stressor that interacts with other stressors in both academic and sociocultural domains. In the academic domain, language barriers can impact on assignment writing, understanding lectures, oral and written examinations, and the ability to ask questions in class (Chen, 1999; Mori, 2000). Poyrazli and Kavanaugh (2006) found that low academic achieving international students studying in the U.S.A. reported lower levels of English proficiency and greater overall adjustment strain. This finding is consistent with further research showing a relationship between English proficiency and academic performance in international students (Poyrazli, Arbona, Bullington, & Pisecco, 2001; Stoynoff, 1997; Zhang & Brunton, 2007). Additionally, a qualitative study by Trice (2003) examining the perceptions of 27 academic staff (professors, department chairs, and deans) highlighted that staff members felt that English proficiency was the main challenge for international students, and stated that this could affect students¡¦ academic performance.
+
+   Socially, language barriers can impede international students¡¦ attempts to make friends and interact with locals (Chen, 1999; Mori, 2000). For instance, Barratt and Huba (1994) found that international students¡¦ English competency increased self-esteem and was positively associated with more interpersonal relations with locals. Similarly, Poyrazli, Arbona, Nora, McPherson, and Pisecco (2002) demonstrated that English competency of international students was a predictor of their adjustment, which included ability to relate to locals. In their systematic review, Zhang and Goodson (2011) found that English proficiency was a predictor of both psychological and sociocultural adjustment. Furthermore, there is significant evidence in the literature demonstrating that lower levels of English proficiency are a predictor of acculturative stress, and/or depression (Dao, Lee, & Chang, 2007; Duru & Poyrazli, 2007; Poyrazli, Kavanaugh, Baker, & Al-Timimi, 2004; Sumer, Poyrazli, & Grahame, 2008; Yeh & Inose, 2003).
+
+
+3.2.  Educational stressors
+
+   There are a number of potential acculturative stressors that international students encounter in the educational environ-ment. Academic stress is not unique to international students but rather experienced by all university students; however, academic stress is likely to be intensified for international students due to the added stressors of second language anxiety and adapting to a new educational environment. For example, Misra, Crist, and Burant (2003) found that international stu-dents in the U.S.A who experienced academic stress had greater reactions to other stressors encountered when adjusting to the educational environment. Academic stress was also found to be a significant predictor of life stress. This finding is consistent with Rasmi et al. (2009) longitudinal examination of the predictor and outcome variables of the MIDA model using international students, which revealed that those who reported more academic hassles at time one exhibited significantly greater levels of psychological distress at time two (18 months later). Hashim and Yang (2003) demonstrated similar results in their study of stress in African and Western international students in China, where academic stressors were rated as the most commonly occurring stressors in both groups. In contrast, Misra and Castillo (2004) found that international students reported lower levels of academic stress and fewer reactions to stressors compared to American domestic students. How-ever, the authors argued that the international students may have under-reported academic stress due to them considering admission to stress as a weakness and shameful. This factor may have also influenced Khawaja and Dempsey¡¦s (2008) results where no significant difference in academic stress for international students compared to domestic Australian students was found.
+
+   Another likely contributor to acculturative stress for international students is a mismatch in their academic expectations to the realities of university life. International students may expect to perform academically as well as, if not better than, what they did in their home country (Chen, 1999; Mori, 2000; Pedersen, 1991). However, their academic performance may be below their expectations due to acculturative stressors of studying in a second language and adapting to the new educational, cultural, and social environment. As a result, if international students do not overcome these stressors they may experience decreased confidence in mastering their new environment, thereby negatively impacting upon adaptation (Chen, 1999). In addition, international students may be pressured by their family and sponsoring university in their country of origin to achieve a high level of academic performance, which if not obtained can aggravate the acculturative stress experienced by the student (Chen, 1999; Mori, 2000).
+
+   International students may also encounter a mismatch in expectations regarding the quality and efficiency of services provided by educational institutions. Sherry et al. (2004) highlighted that international students, in comparison to domestic students, had lower perceptions of services offered by their educational institutions, and these findings were verified by Khawaja and Dempsey (2008). International students¡¦ unmet expectations of university¡¦s educational services have been found to be associated with poorer adaptation (Khawaja & Dempsey, 2008) and increased depression levels (Kennedy, 1999, as cited in, Ward et al., 2001). Therefore, unmet education expectations appear to be another possible source of acculturative stress.
+
+   International students may also find it difficult to adjust to the teaching style of their host country. For example, students from countries which focus upon rote learning may find it particularly difficult to adjust to the importance placed on critical thinking in Western universities (Aubrey, 1991). Liberman (1994) examined the educational experience of Asian international students in the U.S.A through 682 qualitative informal interviews. Participants stated that it was difficult to adjust to the interactive teaching style and critical thinking approach to learning, but felt that it was beneficial for their learning. Additionally, participants expressed concern about the informality and lack of respect shown by domestic students towards teaching staff. International students in two Australian qualitative studies also noted difficulties adjusting to teaching styles (Edgeworth & Eiseman, 2007; Townsend & Poh, 2008). Together the research outlined above suggests that international students encounter numerous acculturative stressors within the educational domain, which can influence adaptation.
+
+
+
+3.3.  Sociocultural stressors
+
+   In addition to the acculturative stressors experienced within the educational domain, often international students have to establish a new social network after leaving their friends and family back home. Emerging research suggests that personality variables of attachment style, trait-anxiety, and extroversion may impact on international students¡¦ ability to form friend-ships, and in-turn sociocultural and psychological adaptation (Brisset, Safdar, Lewis, & Sabatier, 2010; Wang & Mallinckrodt, 2006; Ying & Han, 2006). Additionally, cultural norms, language barriers, and the nature of friendships in the host country may also impede international students¡¦ ability to establish friendships, and thus contribute to their feelings of loneliness. For example, all 10 participants in an Australian qualitative study reported difficulties socialising with locals (Townsend & Poh, 2008). In another qualitative study, Sawir, Marginson, Deumert, Nyland, and Ramia (2008) examined experiences of loneliness in 200 Australian international students. Two thirds of participants in their study reported that they had experi-enced loneliness and/or isolation in their host country particularly in the beginning months of their stay. Comparable results were reported by Chataway and Berry (1989), and McLachlan and Justice (2009). Furthermore, Zhang and Brunton (2007) found that 55% of their sample of Chinese international students in New Zealand were unhappy with their opportunities to make friendships with locals, and 71% reported that they would like to have more local friends. In other studies, inter-national students have reported perceptions of less social support than domestic students (Hechanova-Alampay, Beehr, Christiansen, & Van Horn, 2002; Khawaja & Dempsey, 2008), and more loneliness and homesickness (Parr & Bradley, 1991; Rajapaksa & Dundes, 2002). Contrary to these findings, Klomegah (2006) found no significant difference in levels of feeling alienated between domestic and international students in the U.S.A. The authors argued that these results may be explained by the study being conducted in a small university, which may have been more conducive to creating a sense of belonging in comparison to large universities typically used in international student research.
+
+
+   Asian international students, particularly, may have increased difficulty making friends with locals compared to their European counterparts. Asian cultures are typically collectivistic, although there is large variation in the degree and type of collectivism amongst them (Triandis, 1999). Therefore, Asian international students may experience difficulties when interacting and attempting to make friends in a Western culture that emphasises individualism, assertiveness, and self-sufficiency over interdependence and relatedness (Mori, 2000; Yeh & Inose, 2003). For example, most Asian participants in Liberman¡¦s (1994) study were consistently critical of American social customs. Participants also reported feeling emotionally deprived in their host country without their support networks from their home country. International students may feel considerable loss when living away from their family as collectivist cultures often consist of close-knit families (Lee, Koeske, & Sales, 2004). Difficulty forming friendships with locals may be compounded by the possible disinterest of domestic students in initiating friendships with international students (Ward et al., 2001, as cited in, Zhang & Brunton, 2007). The difficulty that international students, particularly Asian students, have in establishing local friendships may be explained in view of the IAM, CMA, and RAEM, because this issue may be a result of conflicting acculturation attitudes between the host university and the international students. For example, international students from collectivist cultures may desire to maintain their heritage sociocultural behaviours and values, whilst local students may desire international students to assimilate or integrate their attitudes to align with the host culture. Future research should explore this hypothesis further, particularly the acculturation attitudes of the host.
+
+
+3.4.  Discrimination
+
+   Discrimination has also been noted as another potential acculturative stressor. International students from Asia, Africa, India, Latin America, and the Middle East often report significant perceived discrimination compared to domestic students or European international students (Hanassab, 2006; Lee & Rice, 2007; Poyrazli & Lopez, 2007). Findings from interview-based research (Lee & Rice, 2007) with 24 international students attending a university in the U.S.A. revealed that international students from Asia, India, Latin America, and the Middle East reported significant discrimination ranging from feelings of inferiority, direct verbal insults, discrimination when seeking employment, and physical attacks (objects thrown). Simi-larly, participants in Poyrazli and Grahame¡¦s (2007) qualitative study reported encountering off-campus discrimination, spanning from covert interactions to overt acts. Such feelings and experiences of discrimination can impact negatively on international students¡¦ adaptation and have been linked with poor psychological well-being and depression (Atri, Sharma, & Cottrell, 2006; Jung, Hecht, & Wadsworth, 2007; Wei et al., 2007); has been found to predict higher levels of homesickness (Poyrazli & Lopez, 2007); and can discourage international students from making friends with locals (Chen, 1999; Mori, 2000). Recent tragic incidents in Australia where Indian international students were assaulted and attacked by members of the host society is one of the more extreme examples of possible social prejudices and hostility experienced by inter-national students (O¡¦Loughlin, 2010; O¡¦Malley, 2010). The events occurring in Australia highlight that discrimination can take a severe form, creating significant fear amongst international students; this may explain why Australia experienced a decrease in Indian international students from July to 31 October 2009 compared to the same period in 2008 (Harrison, 2010). Host countries need to be proactive in taking steps towards addressing issues of discrimination against international students.
+
+
+
+3.5.  Practical stressors
+
+   In addition to educational and sociocultural stressors, international students may also experience a number of practical or lifestyle acculturative stressors. Studies have shown that financial problems are experienced by the majority of international students (Li & Kaye, 1998; Poyrazli & Grahame, 2007; Roberts, Golding, Towell, & Weinreib, 1999), with contributing factors including work restrictions in the host country and substantially greater tuition fees (Chen, 1999; Mori, 2000). Further practical issues such as accommodation and transportation have also been highlighted in other qualitative studies (Bradley, 2000; Poyrazli & Grahame, 2007). However, Khawaja and Dempsey (2008) found no significant differences in financial and accommodation satisfaction between international and domestic students. The authors suggest that this might be due to the majority of the international student sample having resided in Australia for more than two years, and thus having had time to resolve their financial and accommodation problems.
+
+   In summary, congruent with Berry (1997, 2006), Safdar et al. (2003), Arends-Toth and van de Vijver (2006), and Ward et al.¡¦s (2001) models, extensive research outlines potential acculturative stressors international students may encounter. However, this is not emphasised in the IAM, CMA, and RAEM, which on the other hand focus on acculturation atti-tudes of the host and migrant. The RAEM does identify several domains that may be problematic due to conflicting acculturation attitudes between the host and migrant, including a social domain which has been identified in Section 3.3 as a stressor for international students, but education, a focal domain for international students, is not mentioned. In accordance with Berry, Safdar et al., Arends-Toth and van de Vijver, and Ward et al.¡¦s models, the impact of accul-turative stressors is variable depending on how they are appraised and coped with by each individual international student.
+
+
+
+4.  Acculturative life changes, appraisal, and coping in international students
+
+   The aforementioned life changes that international students face when acculturating can impact on their psychological adaptation. Studies have consistently revealed positive moderate correlations between acculturative life changes and psy-chological distress in international students (Searle & Ward, 1990; Ward & Kennedy, 1993a, 1993b); however, life changes only accounted for a proportion of the variance. Prominent acculturation models (Arends-Toth & van de Vijver, 2006; Berry, 1997, 2006; Safdar et al., 2003; Ward et al., 2001) outline that further factors need to be considered in the acculturation process, such as cognitive appraisal of life changes and coping strategies, which can subsequently impact upon the degree of acculturative stress experienced, and therefore psychological and sociocultural adaptation.
+
+4.1.  Cognitive appraisal of life changes
+
+   According to Berry (1997, 2006) and Ward et al.¡¦s (2001) acculturation models, individuals may vary in the manner in which they appraise life changes in the acculturation process. However, the other acculturation models discussed in this review do not include cognitive appraisal as a variable in their models, thereby failing to depict that one international student may appraise a life change as an opportunity whilst another may view it as a threat, and thus an acculturative stressor. Despite the importance of cognitive appraisal in the general stress and coping field, only a few studies in the international student literature have been conducted in this area. For example, Chataway and Berry (1989) and Zheng and Berry (1991) examined which life changes are appraised as the most difficult by particular groups of international students. Further research is needed in this area to determine whether the diverse cultural backgrounds of international students affect their appraisal of life changes.
+
+
+
+4.2.  Coping in response to acculturative stressors
+
+   Berry (1997, 2006), Ward et al. (2001), Safdar et al. (2003), and Arends-Toth and van de Vijver (2006) all identify coping as impacting on the acculturation process of international students. In the general stress and coping literature various types of coping have been identified, such as problem-focused coping, emotion-focused coping, and meaning-focused coping (refer to Folkman, 2008). Research in the international student literature is particularly limited on the use of positive coping strategies. Ward, Leong, and Kennedy (1998, as cited in, Ward et al., 2001) examined international students in Singapore and found that secondary coping mechanisms which do not directly fix the problem (e.g., acceptance and positive reinterpretation) predicted lower levels of perceived stress and subsequently reduced depressive symptoms. Similarly, Lin and Betz (2009) revealed that unconditional positive regard (i.e., self compassion) in Chinese international students was negatively associated with acculturative stress. Humour has also been shown to be a positive coping strategy used by international students resulting in reduced mood disturbance (Kennedy, 1994, as cited in, Ward et al., 2001). However, the majority of coping research on international students focuses upon maladaptive coping.
+
+   Research has demonstrated the presence of maladaptive coping in international students, particularly Asian students. Khawaja and Dempsey (2007, 2008) in an Australian study found that although levels of psychological distress were not significantly different between international (predominantly from Asian countries) and domestic students, international students¡¦ coping was maladaptive in comparison to the domestic students. For the international students in the study, dysfunctional coping (denial, substance use, self blame, venting, and behavioural disengagement) was the only significant predictor of psychological distress; and psychological distress was predominantly displayed as obsessive¡Vcompulsive symp-toms, manifesting as worry and rumination over mistakes, and perfectionist tendencies. Similarly, Cheng, Leong, and Geist (1993) found that Asian international students in a U.S.A university scored significantly higher than domestic students on obsessive¡Vcompulsiveness. Chataway and Berry¡¦s (1989) research demonstrated that Asian international students com-pared to French and British international students in Canada used less positive thinking coping strategies and less positive or maladaptive tension reduction methods (i.e., use of drugs, alcohol, food, and/or exercise). Wei et al. (2007) revealed that maladaptive perfectionism in Chinese international students was a significant predictor of depression, and Kennedy (1999, as cited in, Ward et al., 2001) highlighted that the use of avoidance as a coping style in Singaporean international students soon after arriving in the host country predicted psychological distress later on in their stay.
+
+	Furthermore, it seems that Asian cultures place importance on emotional control (Kim, Atkinson, & Yang, 1999; Kim, Li, & Ng, 2005), and may therefore believe that they should be able to handle emotional distress on their own (Wei et al., 2007). To seek help from peers and professionals for acculturative stress might imply personal failure to manage their emotions, thus, resulting in shame and loss of face (i.e., embarrassment) (Wei et al., 2007, 2008). Additionally, Asian international students may also be reluctant to speak to family members and friends in their home country about how they are feeling for fear of burdening them with their problems (Constantine, Kindaichi, Okazaki, Gainor, & Baden, 2005; Heppner et al., 2006). Due to these factors, emotional suppression may be the favoured coping style of Asian international students when faced with acculturative stressors, which may increase vulnerability to depression and anxiety (Chataway & Berry, 1989; Wei, Ku, Russell, Mallinckrodt, & Liao, 2008). The use of maladaptive coping strategies might be one factor contributing to research findings that have demonstrated that Asian international students report more acculturative stress than European international students (Poyrazli & Kavanaugh, 2006; Poyrazli et al., 2004; Yang & Clum, 1994; Yeh & Inose, 2003). If accul-turative stressors are not sufficiently overcome with positive coping resources acculturative stress may result, which can be exacerbated if maladaptive coping is used. One way to cope appropriately is to seek assistance from external sources.
+
+
+4.2.1.  Underutilisation of student counselling services
+
+   Student counselling services are a potential positive coping resource for international students when faced with accul-turative stressors, however, research suggests counselling services are underutilised. Nilsson et al. (2004) demonstrated that only 2% of international students at a U.S.A university sought help from the counselling centre in the year sampled, and of those that did seek help, approximately one third dropped out of treatment after the first session. In their qualitative study, Ang and Liamputtong (2008) found also an underutilisation of counselling services by international students attending an Australian university; where the reasons stated were the belief that counsellors would not have adequate cultural knowledge, and that the service was for individuals with mental illness which carries a social stigma. Therefore, international students¡¦ appraisal of university counselling centres can result in students disregarding them as a coping resource. Additionally, Mori (2000) stated that international students (particularly from Asian countries) have a tendency to somatise problems, and thus seek help from medical physicians first. Cheng et al. (1993) suggest that if Asian international students do present for help at university counselling centres, it is likely to be with academic complaints despite also experiencing emotional distress.
+
+   Russell, Thomson, and Rosenthal (2008) conducted a large study investigating the use of health and counselling services by 979 international students at an Australian university. Overall, the international students rated the services positively, which is in contrast to prior research (e.g., Kilinc & Granello, 2003; Lee & Mixson, 1995; Zhang & Dixon, 2003). This finding might have been due to the high quality of multicultural services offered in association with this university. In-line with prior research, Asian international students reported a greater lack of information about the counselling service and a greater perceived need for academic-educational counselling. Also, findings demonstrated an underutilisation of medical services (health and counselling), as 37.8% of international students who felt they were in need of help did not seek assistance. The most common reason provided for a lack of action was feeling that the problem was not significant enough to necessitate seeking help. Those who did seek help had higher acculturation scores, which may suggest that they had less discomfort with seeking help due to cultural stigmas. Perhaps the underutilisation of counselling services outlined in this section can be explained by the IAM, CMA, and RAEM, which highlight the influence of the acculturation attitudes of the host. In some of the studies discussed in this section, the universities may have adopted an assimilation attitude, expecting international students to utilise services that are culturally acceptable for domestic students, but may not be culturally appropriate for some international students. Future research could investigate host universities adopting services that represent an acculturation attitude of integration.
+
+
+   In summary, life changes faced by international students when studying abroad do not solely predict psychological adaptation, as life changes are appraised differently depending on the individual. As illustrated by Berry (1997, 2006) and Ward et al.¡¦s (2001) acculturation models, when life changes are appraised as an acculturative stressor, coping resources can determine whether the acculturative stressor results in acculturative stress, and the degree to which it is experienced. Other acculturation models (Arends-Toth & van de Vijver, 2006; Safdar et al., 2003) also identify coping as a variable that can impact on psychological and sociocultural adaptation. Considering the importance placed on coping in these models, and the findings outlined in this section, further research is needed to explore international students¡¦ coping mechanisms. Although, the IAM, CMA, and RAEM do not specifically outline coping as a variable impacting on adaptation, the models are useful in considering factors contributing to the underutilisation of university counselling services by international students.
+
+
+
+5.  Acculturative stress of international students
+
+   Consistent with Berry (1997, 2006), Ward et al. (2001), Safdar et al. (2003), and Arends-Toth and van de Vijver¡¦s (2006) acculturation models, the range of acculturative stressors previously outlined in Section 3 may result in acculturative stress in international students if they cannot be sufficiently overcome with coping resources. In-turn acculturative stress may negatively impact upon psychological and sociocultural adaptation in the acculturation process. The exact manifestation of acculturative stress is unclear but the literature suggests that it can be displayed in a variety of ways. For example, acculturative stress can result in international students reporting somatic complaints such as sleep and appetite disturbance, fatigue, headaches, increases in blood pressure, and gastrointestinal problems (Mori, 2000). Acculturative stress can lead also to psychological symptoms such as isolation, helplessness, hopelessness, sadness, feelings of loss, anger, disappointment, and a sense of inferiority, and in severe cases may lead to clinical depression (Mori). The complexity of acculturative stress and its varying manifestations as described above is consistent with Berry and Ward et al.¡¦s models; however, the manifestations of acculturative stress are not represented by other models reviewed presently.
+
+   Research has shown that acculturative stress in international students is associated with depression. For example, Wei et al.¡¦s (2007) study of 189 Chinese international students in the U.S.A found that acculturative stress was a significant predictor of depression even after controlling for other variables, such as maladaptive perfectionism and length of stay in the U.S.A. Wilton and Constantine¡¦s (2003) research demonstrated that acculturative distress and international students¡¦ concerns regarding their own intercultural competence predicted psychological distress in Asian and Latin international students at a U.S.A university. Additionally, an Australian study demonstrated that higher levels of acculturative stress were associated with lower levels of self-esteem in international students (Gholamrezaei, 1997). Further studies with Asian international students have shown a positive association between acculturative stress and depression also (Dao et al., 2007; Lee et al., 2004; Pan, Wong, Joubert, & Chan, 2007; Yang & Clum, 1995; Ying & Han, 2006).
+
+   Depression has been highlighted as one of the predominant complaints for international students presenting at coun-selling centres. Yi, Lin, and Kishimoto (2003) examined the complaints of 516 international students presenting at a U.S.A counselling centre between 1992 and 1998. Before seeking counselling the students were asked to complete a self-report questionnaire about their concerns. Seventy-two percent of international students reported that they were worried or extremely worried about ¡§depression,¡¨ which was the second most frequently endorsed complaint after ¡§anx-iety/fear/nervousness¡¨ (82%). Similarly, Nilsson, Berkel, Flores, and Lucas (2004) found that the most common complaint amongst international students at a U.S.A counselling centre was feeling depressed, down, and blue with a 34% endorsement rate. In their qualitative study, McLachlan and Justice (2009) found that one-fifth of the participants reported significant emo-tional difficulties for which they sought professional help. Although emotional difficulties were not specifically enquired about as unstructured interviews were used, emotional difficulties were still raised by some participants, suggesting the importance of this issue for international students.
+
+   Longitudinal studies have been conducted examining international student adaptation, specifically investigating the impact of pre-departure variables on post-arrival adaptation (e.g., Kennedy, 1999, as cited in Ward et al., 2001; Ying & Liese, 1990; Ying & Liese, 1991), as well as monitoring psychological and sociocultural adaptation over time (e.g., Lu, 1990; Nash, 1991). However, a gap remains in the literature regarding the impact of acculturative stress on the psychological and socio-cultural adaptation of international students over time. This section has outlined the negative influence that acculturative stress can have on international students¡¦ mental health; however, the CMA and RAEM fail to clearly depict the potential psychological distress experienced by international students in the acculturation process. These two models state that con-flict will result when there is disparity between the acculturation attitudes of the host and migrant, but they do not outline the manifestation or impact of this conflict. The IAM portrays that acculturative stress can result due to conflicting accultur-ation attitudes, but this is not a central component of the model. Berry (1997, 2006), Ward et al. (2001), Safdar et al. (2003), and Arends-Toth and van de Vijver¡¦s (2006) acculturation models illustrate that acculturative stress can be experienced by the acculturating international student, and also identify factors that can decrease the detrimental impact of acculturative stress.
+
+
+
+6.  The buffering effect of social support on acculturative stress and depression
+
+   Berry (1997, 2006), Ward et al. (2001), Safdar et al. (2003), and Arends-Toth and van de Vijver (2006) all depict social support as a variable in their model that can decrease acculturative stress experienced and aid adaptation. This is in accor-dance with findings from the international student literature which demonstrate the buffering effect of social support on acculturative stress and depression. Yeh and Inose (2003) sampled 359 international students in a U.S.A university, and found that international students who felt socially connected and who were content with their social support networks exhibited lower acculturative distress. These findings are consistent with studies demonstrating a negative association between social support and psychological distress (including acculturative stress, depression, and anxiety) (Dao et al., 2007; Poyrazli et al., 2004; Sumer et al., 2008; Zhang & Goodson, 2011); and a positive association with psychological well-being (Atri et al., 2006). In contrast, a study of 74 Korean international students in the U.S.A found that social support did not have a direct effect on international students¡¦ mental health symptoms (Lee et al., 2004). However, social support did moderate the relationship between acculturative stress and mental health symptoms; whereby those who reported acculturative stress but had a high level of social support exhibited less mental health symptoms compared to those with low levels of social support. 
+
+	Research suggests that international students utilise a variety of social support sources. In Sawir et al.¡¦s (2008) Australian study it was found that 88% of international students who felt lonely turned to social networks to cope, and sources of social support most frequently cited were friends in Australia (54%) and family and relatives back home (34%). Sawir and colleagues argued that friendships with co-nationals may not be sufficient to ward off loneliness as 65% of international students who had experienced loneliness or isolation had also encountered barriers when attempting to make friends cross-culturally, compared to 36% of those who had not felt lonely. This implies that friendships with host nationals are important in reducing loneliness. This point was demonstrated by Zhang and Brunton (2007) who found that 45% of their sample of Chinese international students in New Zealand who had more than two host national friends engaged in more leisure activities with locals; 57% of these reported lower levels of loneliness compared to the 55% of international students who had less than two New Zealand friends. Additionally, research has shown that social ties with hosts are important to the overall adjustment of international students (Al-Sharideh & Goe, 1998; Kashima & Loh, 2006; Li & Gasser, 2005; Ying & Han, 2006; Ying & Liese, 1994; Zhang & Goodson, 2011). These findings are congruent with Rasmi et al. (2009) longitudinal examination of the MIDA model on international students, revealing that those who reported a high level of psychosocial resources (a combination of perceived out-group social support, psychological well-being, and cultural competence) initially exhibited significantly less psychological distress, and were more likely to report a greater level of out-group contact 18 months later.
+
+   Friendships with co-nationals or fellow international students may be another source of important social support. Ward et al. (2001, as cited in, Zhang & Brunton, 2007) found that the 23% of Asian international students in their sample who did not have friendships with New Zealand host nationals, were most likely to seek out fellow Asian international students for support if they experienced difficulties with their study. Kashima and Loh (2006) found that Asian international students in an Australian university who had more ties with fellow international students in their host country were better adjusted psychologically, and also had greater identification with their own culture and their university. Overall, social support with either locals or co-nationals appears to be an important buffer of acculturative stress, thus, enhancing adaptation, and warranting inclusion as a predictor variable in acculturation models. This is also consistent with Berry (1997, 2006), Safdar et al. (2003), Ward et al. (2001), and Arends-Toth and van de Vijver¡¦s (2006) acculturation models who distinguish between social support from members of the host society and social support from co-nationals, with both potentially positively impacting on psychological and sociocultural adaptation. Therefore, a limitation of the IAM, CMA, and RAEM with reference to international students is that social support is not specifically included as a predictor variable. However, their models do give central importance to host factors influencing acculturation, suggesting that specific interventions at the individual and the group level could be a source of social support that enhances the adaptation of international students.
+
+
+7.  Interventions/programs to aid acculturation in international students
+
+   Despite the plethora of research on international students, there is a shortage of empirically tested interventions that seek to decrease acculturative stress and aid adaptation of international students. Host factors are central variables in the IAM, CMA, and RAEM, therefore, when applied to international students these models highlight the need for group level interventions, such as the society of settlement, particularly universities, proactively seeking to enhance the accul-turation of international students. In-line with the IAM, group interventions may also involve policy changes at the state and institutional level in the higher education industry. Many universities have taken measures to target the accultura-tion of international students through the establishment of support services predominantly focusing on help for practical and academic matters (Andrade, 2006; Arkoudis, 2006; Australian Universities Quality Agency, 2008; Hawthorne, Minas, & Singh, 2004; Nilsson et al., 2004). Although individual counselling may also be offered, international students typi-cally underutilise these services as was discussed in Section 4.2.1. As the international education industry is a growing area, there is a need to explore and evaluate further intervention options outside of what universities already provide. In-line with Berry (1997, 2006), Ward et al. (2001), Safdar et al. (2003), and Arends-Toth and van de Vijver¡¦s (2006) models, interventions could also be developed that target individual variables such as social support and coping strate-gies, as these factors have the potential to mitigate acculturative stress as previously discussed in Sections 4.2 and 6. The following section examines the intervention strategies utilised thus far to enhance the adaptation of international students.
+
+
+
+7.1.  Behavioural interventions
+
+   Mak, Westwood, Barker, and Ishiyama (1999) developed an intercultural social effectiveness training program for inter-national students entitled Excellence in Experiential Learning and Leadership (EXCELL), which is based on a cultural learning framework aiming to enhance sociocultural adaptation. The behavioural program seeks to help international students gain confidence and skills in academic and everyday interpersonal situations whilst maintaining their cultural identity. The program entails six 3-hour sessions with groups of 10¡V20 international students that are new to the host country. The socio-cultural competencies covered include making social contact and conversation, seeking help and information, participating in a group, and negotiating with others in the new culture (e.g., expressing disagreement, giving feedback, and refusing a request). Evaluation studies assessing the effectiveness of the EXCELL program have previously been conducted. For exam-ple, Shergill (1997, as cited in, Mak & Buckingham, 2007) tested the program on international students in Canada and found a significant reduction in social avoidance and an increase in social skills valued by the host country, which was maintained at the four month follow-up. Wong (2001, as cited in, Mak & Buckingham, 2007) found that in a Canadian university interna-tional students¡¦ social self-efficacy in interacting with host nationals significantly increased after the EXCELL program was implemented. Mak, Barker, Logan, and Millman (1999, as cited in, Mak & Buckingham, 2007) evaluated the program utilising Australian international students, and found that social interaction skills and social self-efficacy in interacting with host nationals significantly increased. Therefore, the EXCELL program has been shown to be highly effective and is now utilised in a number of different countries. However, the program is limited by being only behavioural. Although EXCELL is effective in improving the sociocultural adaptation of international students, no attempt was made to measure its ability to reduce acculturative stress and to increase psychological acculturation. Additionally, consistent with the RAEM, the EXCELL program may not be appropriate for international students desiring to adopt a separation acculturation attitude in the social domain, as this is likely to result in conflict when interacting with host society¡¦s acculturation attitude of assimilation adopted in this intervention.
+
+   Pritchard and Skinner (2002) also developed a behavioural intervention to improve cross-cultural relationships. Con-sistent with the acculturation models discussed in this review, Pritchard and Skinner recognised that host members, in addition to international students, should also be a target of their intervention. They sought to improve cross-cultural rela-tionships between domestic and international students, and in-turn aimed to decrease loneliness and acculturative stress in international students attending an Irish university. Domestic and international students were paired (n = 66, retention rate = 70%) to complete cross-cultural activities together. Results were mixed and difficult to interpret due to the ambigu-ous manner in which they were presented, and details of statistical tests used to obtain the findings were not provided. Overall, the program¡¦s results failed to show any improvement in the domestic and international students¡¦ cross-cultural relationships. One explanation for these findings is that the international and domestic students held conflicting accultur-ation attitudes in the social domain as depicted in the RAEM. It is not known whether the program achieved its goals of decreasing loneliness and acculturative stress as no measures were incorporated to test this. Future research could employ the creative use of cross-cultural activities in a program, but with a clear quantitative evaluation of the effectiveness of the program.
+
+   Further behavioural peer-pairing interventions have been carried out whereby international students are paired with domestic students, which have been found to aid social adjustment or enhance social support (Abe, Talbot, & Geelhoed, 1998; Shigaki & Smith, 1997), improve academic achievement (Westwood & Barker, 1990), and increase utilisation of university services including counselling services (Quintrell & Westwood, 1994). Whilst these are promising findings, the peer-pairing interventions did not directly target international students¡¦ psychological adaptation.
+
+7.2.  Multicultural intervention to improve social ties
+
+   Sakurai, McCall-Wolf, and Kashima (2010) designed and evaluated an intervention to improve social ties, cultural ori-entation, and psychological adaptation in international students. The treatment group comprised 47 international students at an Australian University, who went on a bus excursion to a popular tourist attraction, whilst 51 participants were in the control group. Sakurai and colleagues hoped that such a treatment would enhance co-national social ties and also facilitate positive orientation towards the local culture. Participants completed measures one and four months following the excur-sion. No significant differences were found between the two groups at one month. However, at four months the treatment group had developed significantly more social ties with locals, but the two groups did not differ on the number of ties with co-nationals or other international students. Additionally, at four months the treatment group continued their local cultural orientation, whilst the control group decreased in their local orientation and increased in their culture of origin orientation. Results showed no significant differences between the two groups on psychological adaptation. Whilst these results are promising the intervention lacked comprehensiveness by not including components that directly targeted psychological adaptation.
+
+
+
+7.3.  Support program for Asian international students
+
+   Consistent with Berry (1997, 2006), Ward et al. (2001), Safdar et al. (2003), and Arends-Toth and van de Vijver¡¦s (2006) models, there have been some attempts to promote the psychological adaptation of international students through sup-port programs that target individual factors. Carr, Koyama, and Thiagarajan (2003) designed a group support program for Asian international students in a U.S.A university with the goals of increasing coping skills, aiding adjustment to U.S.A cul-ture, offering culturally sensitive counselling, addressing acculturative stressors, and normalising students¡¦ experiences. The groups were time-limited (weekly 90 min sessions during the semester), interactive, and psycho-educational in nature. A group format also provided a setting for social networking aiming to reduce loneliness and isolation. Common themes stated on participant feedback forms included gratitude about being able to share experiences and emotions without judgment. Whilst this program appears to have directly targeted psychological adaptation, unfortunately no quantitative evaluation of the program has yet been conducted, and thus it is not known if the program enhanced international students¡¦ psychological and/or sociocultural adaptation.
+
+
+
+8.  Future directions for research
+
+8.1.  Acculturation models and international students
+
+   This review discussed the psychological acculturation of international students drawing upon the framework of cur-rent acculturation models (Arends-Toth & van de Vijver, 2006; Berry, 1997, 2006; Bourhis et al., 1997; Navas et al., 2005; Piontkowski et al., 2002; Safdar et al., 2003; Ward et al., 2001). It is important to note that these models have not been applied in their entirety. The review has focused on the individual factors outlined in the models as individual factors com-prise a large proportion of the international student literature, which emphasise acculturative stressors and the resulting acculturative stress that may be experienced, along with investigation of international students¡¦ coping process and the role of social support. Group level factors have also been discussed through examination of interventions to aid the acculturation of international students. Further aspects of the models need to be investigated in relation to international students, such as individual factors occurring prior to and/or during acculturation including motivation (see Chirkov, Safdar, de Guzman, & Playford, 2008; Chirkov, Vansteenkiste, Tao, & Lynch, 2007) and the emerging area of attachment style (see Brisset et al., 2010; Wang & Mallinckrodt, 2006), as individual variables are peripheral predictor variables in Berry, Ward et al., Safdar et al., and Arends-Toth and van de Vijver¡¦s models.
+
+   All of the acculturation models discussed in the present review include the host as a variable interacting with the accul-turation of the migrant, and the IAM, CMA, and RAEM depict this variable as the salient feature in the models. Despite the important role that host acculturation attitudes (and macro level factors impacting on these attitudes) play in these models, there is an absence of studies examining these attitudes and factors with reference to international students. A handful of studies (see Cemalcilar, 2008; Cemalcilar, Falbo, & Stapleton, 2005; Kagan & Cohen, 1990; Kilinc & Granello, 2003; Wang & Mallinckrodt, 2006) have investigated the influence of international students¡¦ acculturation attitudes on their adaptation, but as the IAM, CMA, and RAEM outline, the migrant¡¦s acculturation attitudes interact with the host acculturation attitudes, with discrepancies likely to impact negatively on adaptation.
+
+   It is not known if there is one acculturation model that best describes the acculturation of international students, as none of the models have been researched in their entirety on this student population. Rasmi et al. (2009) did empirically examine the MIDA model and found that the predictor variables do predict the outcome variables in international students over time; however, they did not examine the role of the moderating variable in the model of acculturation attitudes, thereby warranting future investigation. The findings in this review regarding the impact of acculturative stressors, coping, and social support on international students¡¦ adaptation does suggest that Berry (1997, 2006), Ward et al. (2001), Safdar et al. (2003), and Toth and van de Vijver¡¦s (2006) models are applicable to understanding the acculturation of international students, but additional predictor variables in these models need to be explored using international student populations. The extent to which the IAM, CMA, and RAEM explain the acculturation of international students is not known as the models have not been tested on this population. Moreover, there is a paucity of research on the impact of the acculturation attitudes of the host and international student on adaptation. The strength of the IAM, CMA, and RAEM when applied to international students, is that they highlight the pivotal role of the host and call for further research into this area. The RAEM could be revised in relation to international students to include education as one of the sociocultural domains depicted, in which interacting acculturation attitudes between the host and international student affect adaptation. The IAM, CMA, and RAEM could also be altered to incorporate predictor variables of stressors, coping, and social support as literature suggests they do impact on international student adaptation. Furthermore, the CMA and RAEM could more clearly depict outcome variables (e.g., acculturative stress) resulting from interacting acculturation attitudes. If future research using international student populations confirms the IAM, CMA, and RAEM, Berry, Ward et al., Safdar et al., and Arends-Toth and van de Vijver¡¦s models could be revised to depict the role of the host more prominently.
+
+
+8.2.  Methodology
+
+   Despite some promising qualitative research with international students, there is still a considerable gap in the literature. Future qualitative research is needed to explore the lived experiences of international students to enhance understanding of their acculturation. For example, qualitative research delving into the acculturation attitudes of international students and host members (e.g., domestic students and academics) in varying sociocultural domains is needed. There is also a shortage of longitudinal studies examining the impact of variables on international students¡¦ adaptation over time, such as the consequence of acculturative stress on adaptation.
+
+
+8.3.  Interventions
+
+   Berry¡¦s (2005) definition of acculturation highlights that acculturation is a two-way process between international stu-dents and their host society, and the acculturation models discussed in this review highlight that the society of settlement is an important variable impacting on international students¡¦ psychological acculturation. Additionally, international stu-dents¡¦ underutilisation of counselling services has resulted in researchers calling for proactive and preventative steps to be taken to aid the acculturation process of international students and prevent acculturative stress (Angelopoulos & Catano, 1993; Bradley, 2000; Khoo & Abu-Rasain, 1994; Komiya & Eells, 2001; Mori, 2000; Nilsson et al., 2004). Despite this need, there has been a lack of interventions administered by the host society to improve the adaptation of international students. The interventions carried out thus far are promising; however, they lack either rigorous empirical testing (e.g., Carr et al., 2003; Pritchard & Skinner, 2002) or comprehensiveness by only being behavioural in nature (e.g., the EXCELL program). A comprehensive intervention is needed which incorporates cognitive, behavioural, and psychosocial components to enhance the adaptation of international students.
+
+
+9.  Conclusion
+
+   This review has discussed leading acculturation models to explore the degree to which they represent the acculturation experience of international students, and are consistent with the literature for this student group. Only the MIDA model has been specifically tested on international students. Although, the international student literature does provide support for central predictor and outcome variables in Berry (1997, 2006), Ward et al. (2001), and Arends-Toth and van de Vijver¡¦s (2006) models, there are some predictor variables in these models that have not been adequately researched, such as host society factors. Host and international student acculturation attitudes, as centrally depicted in the IAM, CMA, and RAEM, also require investigation to determine if these models describe the acculturation experience of international students. The review has also outlined the lack of empirically tested interventions to aid the acculturation of international students, therefore, highlighting the need for further research in the area, and calling for host countries to recognise their pivotal role in facilitating the acculturation of international students into universities and wider society.
+
+
+
+
+
+References
+
+Abe, J., Talbot, D. M. & Geelhoed, R. J. (1998). Effects of a peer program on international student adjustment. Journal of College Student Development, 39, 539¡V547.
+
+Al-Sharideh, K. A. & Goe, W. R. (1998). Ethnic communities within the university: An examination of factors influencing the personal adjustment of international students. Research in Higher Education, 39, 699¡V725.
+
+Andrade, M. S. (2006). International students in English-speaking universities. Journal of Research in International Education, 5, 131¡V154.
+
+Ang, P. L. D. & Liamputtong, P. (2008). ¡§Out of the circle¡¨: International students and the use of university counselling services. Australian Journal of Adult Learning, 48, 108¡V130.
+
+Angelopoulos, M. & Catano, V. M. (1993). International and Canadian students¡¦ choice of helping source: It depends on the problem. Journal of College Student Development, 34, 377¡V378.
+
+Arends-Toth, J. V. & van de Vijver, F. J. R. (2006). Issues in conceptualization and assessment of acculturation. In M. H. Bornstein, & L. R. Cote (Eds.), Acculturation and parent¡Vchild relationships: Measurement and development. Mahwah, New Jersey: Lawrence Erlbaum.
+
+Arkoudis, S. (2006). Teaching international students: Strategies to enhance learning. Retrieved September 2, 2010, from http://www.cshe.unimelb.edu.au/ pdfs/international.pdf.
+
+R.A. Smith, N.G. Khawaja / International Journal of Intercultural Relations 35 (2011) 699¡V713711
+Atri, A., Sharma, M. & Cottrell, R. (2006). Role of social support, hardiness, and acculturation as predictors of mental health among international students of Asian Indian origin. International Quarterly of Community Health Education, 27, 59¡V73.
+
+Aubrey, R. (1991). International students on campus: A challenge for counselors, medical providers, and clinician. Smith College Studies in Social Work, 62, 20¡V33.
+
+Australian Education International (2010). Export income to Australia from education services in 2009. Research Snapshot. Retrieved September 1, 2010, from http://aei.gov.au/AEI/PublicationsAndResearch/Snapshots/2010052810 pdf.pdf.
+
+Australian Universities Quality Agency (2008). Good practice principles for English language proficiency for international students in Australian universities.
+
+Retrieved September 2, 2010, from http://www.deewr.gov.au/HigherEducation/Publications/Documents/Final Report-Good Practice Principles.pdf.
+
+Barratt, M. F. & Huba, M. E. (1994). Factors related to international graduate student adjustment in an American community. College Student Journal, 39, 422¡V435.
+
+Berry, J. W. (1992). Acculturation and adaptation in a new society. International Migration, 30, 69¡V85.
+
+Berry, J. W. (1997). Immigration, acculturation and adaptation. Applied Psychology: An International Review, 46, 5¡V68.
+
+Berry, J. W. (2005). Acculturation: Living successfully in two cultures. International Journal of Intercultural Relations, 29, 697¡V712.
+
+Berry, J. W. (2006). Stress perspectives on acculturation. In D. L. Sam, & J. W. Berry (Eds.), The Cambridge handbook of acculturation psychology (pp. 43¡V57).
+
+Cambridge: Cambridge University Press.
+
+Berry, J. W. & Kim, U. (1988). Acculturation and mental health. In P. Dasen, J. W. Berry, & N. Sartorius (Eds.), Health and cross-cultural psychology (pp.
+
+207¡V236). Newbury Park: Sage.
+
+Berry, J. W., Kim, U., Minde, T. & Mok, D. (1987). Comparative studies of acculturative stress. International Migration Review, 21, 491¡V511.
+
+Bevis, T. B. (2002). At a glance: International students in the United States. International Educator, 11(3), 12¡V17.
+
+Bourhis, R. Y., Moise, L. C., Perreault, S. & Senecal, S. (1997). Towards an interactive acculturation model: A social psychological approach. International Journal of Psychology, 32, 369¡V386.
+
+Bradley, G. (2000). Responding effectively to the mental health needs of international students. Higher Education, 39, 417¡V433.
+
+Brisset, C., Safdar, S., Lewis, J. R. & Sabatier, C. (2010). Psychological and sociocultural adaptation of university students in France: The case of Vietnamese international students. International Journal of Intercultural Relations, 34, 413¡V426.
+
+Carr, J. L., Koyama, M. & Thiagarajan, M. (2003). A women¡¦s support group for Asian international students. Journal of American College Health, 52, 131¡V134. Cemalcilar, Z. (2008). A longitudinal study of the adaptation of international students in the United States. Journal of Cross-Cultural Psychology, 39, 799¡V804. Cemalcilar, Z., Falbo, T. & Stapleton, L. M. (2005). Cyber communication: A new opportunity for international students¡¦ adaptation? International Journal of
+
+Intercultural Relations, 29, 91¡V110.
+
+Chataway, C. J. & Berry, J. W. (1989). Acculturation experiences, appraisal, coping, and adaption: A comparison of Hong Kong Chinese, French, and English students in Canada. Canadian Journal of Behavioural Science, 21, 295¡V309.
+
+Chen, C. P. (1999). Common stressors among international college students: Research and counseling implications. Journal of College Counseling, 2, 49¡V65. Cheng, D., Leong, F. & Geist, R. (1993). Cultural differences in psychological distress between Asian and American college students. Journal of Multicultural
+
+Counseling & Development, 21, 182¡V189.
+
+Chirkov, V. I., Safdar, S., de Guzman, J. & Playford, K. (2008). Further examining the role motivation to study abroad plays in the adaptation of international students in Canada. International Journal of Intercultural Relations, 32, 427¡V440.
+
+Chirkov, V. I., Vansteenkiste, M., Tao, R. & Lynch, M. (2007). The role of self-determined motivation and goals for study abroad in the adaptation of international students. International Journal of Intercultural Relations, 31, 199¡V222.
+
+Constantine, M. G., Kindaichi, M., Okazaki, S., Gainor, K. A. & Baden, A. L. (2005). A qualitative investigation of the cultural adjustment experiences of Asian international college women. Cultural Diversity and Ethnic Minority Psychology, 11, 162¡V175.
+
+Dao, T. K., Lee, D. & Chang, H. L. (2007). Acculturation level, perceived English fluency, perceived social support level, and depression among Taiwanese international students. College Student Journal, 41, 287¡V295.
+
+Duru, E. & Poyrazli, S. (2007). Personality dimensions, psychosocial-demographic variables, and English language competency in predicting level of acculturative stress among Turkish international students. International Journal of Stress Management, 14, 99¡V110.
+
+Edgeworth, K. & Eiseman, J. (2007). Going bush: International student perspectives on living and studying at an Australian rural university campus. Journal of Research in Rural Education, 22(9), 1¡V13.
+
+Folkman, S. (2008). The case for positive emotions in the stress process. Anxiety, Stress & Coping, 21, 3¡V14.
+
+Gholamrezaei, A. (1997). Acculturation and self-esteem as predictors of acculturative stress among international students at the University of Wollongong. Unpublished doctoral dissertation, University of Wollongong. Retrieved from http://gateway.library.qut.edu.au/login?url=http://search.ebscohost.com/ login.aspx?direct=true&db=psyh&AN=1997-95008-039&site=ehost-live.
+
+Hanassab, S. (2006). Diversity, international students, and perceived discrimination: Implications for educators and counselors. Journal of Studies in International Education, 10, 157¡V172.
+
+Harrison, D. (January 2010). Indian student visa applications fall by half, The Age. Retrieved from http://www.theage.com.au/national/education/ indian-student-visa-applications-fall-by-half-20100106-lubt.html.
+
+Harrison, P. (2002). Educational exchange for international understanding. International Educator, 11(4), 2¡V4.
+
+Hashim, I. H. & Yang, Z. L. (2003). Cultural and gender differences in perceiving stressors: A cross-cultural investigation of African and Western students in Chinese colleges. Stress and Health, 19, 217¡V225.
+
+Hawthorne, L., Minas, I. H. & Singh, B. (2004). A case study in the globalization of medical education: Assisting overseas-born students at the University of Melbourne. Medical Teacher, 26, 150¡V159.
+
+Hechanova-Alampay, R., Beehr, T. A., Christiansen, N. D. & Van Horn, R. K. (2002). Adjustment and strain among domestic and international student sojourners: A longitudinal study. School Psychology International, 23, 458¡V474.
+
+Heppner, P. P., Heppner, M. J., Lee, D.-G., Wang, Y.-W., Park, H.-J. & Wang, L.-F. (2006). Development and validation of a collectivist coping styles inventory.
+
+Journal of Counseling Psychology, 53, 107¡V125.
+
+Jung, E., Hecht, M. L. & Wadsworth, B. C. (2007). The role of identity in international students¡¦ psychological well-being in the United States: A model of depression level, identity gaps, discrimination, and acculturation. International Journal of Intercultural Relations, 31, 605¡V624.
+
+Kagan, H. & Cohen, J. (1990). Cultural adjustment of international students. Psychological Science, 1, 133¡V137.
+
+Kashima, E. S. & Loh, E. (2006). International students¡¦ acculturation: Effects of international, conational, and local ties and need for closure. International Journal of Intercultural Relations, 30, 471¡V485.
+
+Kennedy, A. (1994). Personality and psychological adjustment during cross-cultural transitions: A study of the cultural fit proposition. Unpublished master¡¦s thesis, University of Canterbury, NewZealand.
+
+Kennedy, A. (1999). Singaporean sojourner: Meeting the demands of cross-cultural transition. Unpublished doctoral thesis, National University of Singapore.
+
+Khawaja, N. G. & Dempsey, J. (2007). Psychological distress in international university students: An Australian study. Australian Journal of Guidance and Counselling, 17, 13¡V27.
+
+Khawaja, N. G. & Dempsey, J. (2008). A comparison of international and domestic tertiary students in Australia. Australian Journal of Guidance and Counselling, 18, 30¡V46.
+
+Khoo, P. L. S. & Abu-Rasain, M. H. (1994). Counselling foreign students: A review of strategies. Counselling Psychology Quarterly, 7, 117¡V132.
+
+Kilinc, A. & Granello, P. F. (2003). Overall life satisfaction and help-seeking attitudes of Turkish college students in the United States: Implications for college counselors. Journal of College Counseling, 6, 56¡V68.
+
+Kim, B. S. K., Atkinson, D. R. & Yang, P. H. (1999). The Asian American Values Scale: Development, factor analysis, validation and reliability. Journal of Counseling Psychology, 46, 342¡V352.
+
+712	R.A. Smith, N.G. Khawaja / International Journal of Intercultural Relations 35 (2011) 699¡V713
+
+Kim, B. S. K, Li, L. C. & Ng, G. F. (2005). The Asian American Values Scale-Multidimensional: Development, reliability, and validity. Cultural Diversity and Ethnic Minority Psychology, 11, 187¡V201.
+
+Klomegah, R. Y. (2006). Social factors relating to alienation experienced by international students in the United States. College Student Journal, 40, 303¡V315.
+
+Komiya, N. & Eells, G. T. (2001). Predictors of attitudes toward seeking counseling among international students. Journal of College Counseling, 4, 153¡V160.
+
+Lazarus, R. S. & Folkman, S. (1984). Stress, appraisal and coping. New York: Springer.
+
+Lee, J.-S., Koeske, G. F. & Sales, E. (2004). Social support buffering of acculturative stress: A study of mental health symptoms among Korean international students. International Journal of Intercultural Relations, 28, 399¡V414.
+
+Lee, J. J. & Rice, C. (2007). Welcome to America? International student perceptions of discrimination. Higher Education, 53, 381¡V409.
+
+Lee, W. M. L. & Mixson, R. J. (1995). Asian and Caucasian client perceptions of the effectiveness of counseling. Journal of Multicultural Counseling & Development, 23, 48¡V64.
+
+Li, A. & Gasser, M. B. (2005). Predicting Asian international students¡¦ sociocultural adjustment: A test of two mediation models. International Journal of Intercultural Relations, 29, 561¡V576.
+
+Li, R. Y. & Kaye, M. (1998). Understanding overseas students¡¦ concerns and problems. Journal of Higher Education Policy and Management, 20, 41¡V50.
+
+Liberman, K. (1994). Asian student perspectives on American university instruction. International Journal of Intercultural Relations, 18, 173¡V192.
+
+Lin, S.-P. & Betz, N. E. (2009). Factors related to the social self-efficacy of Chinese international students. The Counseling Psychologist, 37, 451¡V471.
+
+Lu, L. (1990). Adaptation to British universities: Homesickness and mental health of Chinese students. Counselling Psychology Quarterly, 3, 225¡V232.
+
+Mak, A. S. & Buckingham, K. (2007). Beyond communication courses: Are there benefits in adding skills-based ExcelL sociocultural training. International Journal of Intercultural Relations, 31, 277¡V291.
+
+Mak, A. S., Westwood, M. J., Barker, M. C. & Ishiyama, F. I. (1999). Developing sociocultural competencies for success among international students: The ExcelL programme. Journal of International Education, 9, 33¡V38.
+
+Mak, A., Barker, M., Logan, G. & Millman, L. (1999). Benefits of cultural diversity for international and local students: Contributions from an experiential social learning program (The EXCELL Program). In D. Davis, & A. Olsen (Eds.), International education: The professional edge. Australia: IDP Education Sydney, pp 63¡V76
+
+McLachlan, D. A. & Justice, J. (2009). A grounded theory of international student well-being. Journal of Theory Construction & Testing, 13, 27¡V32.
+
+Misra, R. & Castillo, L. G. (2004). Academic stress among college students: Comparison of American and international students. International Journal of Stress Management, 11, 132¡V148.
+
+Misra, R., Crist, M. & Burant, C. J. (2003). Relationships among life stress, social support, academic stressors, and reactions to stressors of international students in the United States. International Journal of Stress Management, 10, 137¡V157.
+
+Mori, S. (2000). Addressing the mental health concerns of international students. Journal of Counseling and Development, 78, 137¡V144.
+
+NAFSA (2010). International students contribute $18.8 billion to U.S. economy. Retrieved January 30, 2011, from http://www.nafsa.org/publicpolicy/ default.aspx?id=23158.
+
+Nash, D. (1991). The cause of sojourner adaptation: A new test of the U-curve hypothesis. Human Organization, 50, 283¡V286.
+
+Navas, M., Garcia, M. C., Sanchez, J., Rojas, A. J., Pumares, P. & Fernandez, J. S. (2005). Relative Acculturation Extended Model (RAEM): New contributions with regard to the study of acculturation. International Journal of Intercultural Relations, 29, 21¡V37.
+
+Nilsson, J., Berkel, L., Flores, L. & Lucas, M. (2004). Utilization rate and presenting concerns of international students at a university counseling center. Journal of College Student Psychotherapy, 19(2), 49¡V59.
+
+OECD. (2010). Education at a glance 2010: OECD indicators. OECD Publishing.
+
+O¡¦Loughlin, T. (January 2010). Indian man¡¦s burnt remains found on rural Australian road, London: guardian.co.uk. Retrieved from http://www.guardian.co.uk/ world/2010/jan/06/indian-student-australia-melbourne.
+
+O¡¦Malley, N. (January 2010). Killing reveals another kind of race problem, The Sydney Morning Herald. Retrieved from http://www.smh.com.au/national/ killing-reveals-another-kind-of-race-problem-20100107-lwu9.html.
+
+Pan, J. Y., Wong, D. F., Joubert, L. & Chan, C. L. (2007). Acculturative stressor and meaning of life as predictors of negative affect in acculturation: A cross-cultural comparative study between Chinese international students in Australia and Hong Kong. The Australian and New Zealand Journal of Psychiatry, 41, 740¡V750.
+
+Parr, G. & Bradley, L. (1991). Directors¡¦ perceptions of the concerns and feelings of international students. College Student Journal, 25, 370¡V376.
+
+Pedersen, P. B. (1991). Counseling international students. The Counseling Psychologist, 19, 10¡V58.
+
+Piontkowski, U., Rohmann, A. & Florack, A. (2002). Concordance of acculturation attitudes and perceived threat. Group Processes & Intergroup Relations, 5, 221¡V232.
+
+Poyrazli, S., Arbona, C., Bullington, R. & Pisecco, S. (2001). Adjustment issues of Turkish college students studying in the United States. College Student Journal, 35, 52¡V63.
+
+Poyrazli, S., Arbona, C., Nora, A., McPherson, R. & Pisecco, S. (2002). Relation between assertiveness, academic self-efficacy, and psychosocial adjustment among international graduate students. Journal of College Student Development, 43, 632¡V642.
+
+Poyrazli, S. & Grahame, K. M. (2007). Barriers to adjustment: Needs of international students within a semi-urban campus community. Journal of Instructional Psychology, 34, 28¡V45.
+
+Poyrazli, S. & Kavanaugh, P. R. (2006). Marital status, ethnicity, academic achievement, and adjustment strains: The case of graduate international students.
+
+College Student Journal, 40, 767¡V780.
+
+Poyrazli, S., Kavanaugh, P. R., Baker, A. & Al-Timimi, N. (2004). Social support and demographic correlates of acculturative stress in international students.
+
+Journal of College Counseling, 7, 73¡V82.
+
+Poyrazli, S. & Lopez, M. D. (2007). An exploratory study of perceived discrimination and homesickness: A comparison of international students and American students. The Journal of Psychology, 141, 263¡V280.
+
+Pritchard, R. M. O. & Skinner, B. (2002). Cross-cultural partnerships between home and international students. Journal of Studies in International Education, 6, 323¡V354.
+
+Quintrell, N. & Westwood, M. J. (1994). The influence of a peer-pairing program on international students¡¦ first year experience and use of student services.
+
+Higher Education Research and Development, 13, 49¡V58.
+
+Rajapaksa, S. & Dundes, L. (2002). It¡¦s a long way home: International student adjustment to living in the United States. Journal of College Student Retention:
+
+Research, Theory and Practice, 4, 15¡V28.
+
+Rasmi, S., Safdar, S. & Lewis, J. R. (2009). A longitudinal examination of the MIDA Model with international students. In A. Chybicka, S. Safdar, & A. Kwiatkowska (Eds.), Culture and gender an intimate relations. Gdansk, Poland: Gdanskie Wydawnictwo Psychologiczne.
+
+Roberts, R., Golding, J., Towell, T. & Weinreib, I. (1999). The effects of economic circumstances on British students¡¦ mental and physical health. Journal of American College Health, 48, 103¡V109.
+
+Russell, J., Thomson, G. & Rosenthal, D. (2008). International student use of university health and counselling services. Higher Education, 56, 59¡V75. Safdar, S., Lay, C. & Struthers, W. (2003). The process of acculturation and basic goals: Testing a multidimensional individual difference acculturation model
+
+with Iranian immigrants in Canada. Applied Psychology, 52, 555¡V579.
+
+Sakurai, T., McCall-Wolf, F. & Kashima, E. S. (2010). Building intercultural links: The impact of a multicultural intervention programme on social ties of international students in Australia. International Journal of Intercultural Relations, 34, 176¡V185.
+
+Sawir, E., Marginson, S., Deumert, A., Nyland, C. & Ramia, G. (2008). Loneliness and international students: An Australian study. Journal of Studies in International Education, 12, 148¡V180.
+
+Schwartz, S. J., Unger, J. B., Zamboanga, B. L. & Szapocznik, J. (2010). Rethinking the concept of acculturation: Implications for theory and research. American Psychologist, 65, 237¡V251.
+
+R.A. Smith, N.G. Khawaja / International Journal of Intercultural Relations 35 (2011) 699¡V713713
+Searle, W. & Ward, C. (1990). The prediction of psychological and sociocultural adjustment during cross-cultural transitions. International Journal of Intercultural Relations, 14, 449¡V464.
+
+Shergill, A. (1997). An evaluation of the sociocultural competency for success training programme for the acquisition of intercultural interpersonal competency skills among health care professionals. Unpublished doctoral dissertation, Department of Counselling Psychology, University of British Columbia, Vancouver.
+
+Sherry, C., Bhat, R., Beaver, B., & Ling, A. (2004). Students as customers: The expectations and perceptions of local and international students. Retrieved April 26, 2011, from http://www.herdsa.org.au/wp-content/uploads/conference/2004/PDF/P017-jt.pdf.
+
+Shigaki, I. S. & Smith, S. A. (1997). A cultural sharing model: American buddies for international students. International Education, 27, 5¡V21.
+
+Stoynoff, S. (1997). Factors associated with international student¡¦s academic achievement. Journal of Instructional Psychology, 24, 56¡V68.
+
+Sumer, S., Poyrazli, S. & Grahame, K. (2008). Predictors of depression and anxiety among international students. Journal of Counseling & Development, 86, 429¡V437.
+
+Townsend, P. & Poh, H. J. (2008). An exploratory study of international students studying and living in a regional area. Journal of Marketing for Higher Education, 18, 240¡V263.
+
+Triandis, H. C. (1999). Cross-cultural psychology. Asian Journal of Social Psychology, 2, 127¡V143.
+
+Trice, A. (2003). Faculty perceptions of graduate international students: The benefits and challenges. Journal of Studies in International Education, 7, 379¡V403.
+
+UK Council for International Student Affairs (2010). International students in the UK: Facts, figures, and fiction. Retrieved 30 January 2011, from http://www.ukcisa.org.uk/files/pdf/about/international education facts figures.pdf.
+
+Wang, C.-C. D. C. & Mallinckrodt, B. (2006). Acculturation, attachment, and psychosocial adjustment of Chinese/Taiwanese international students. Journal of Counseling Psychology, 53(4), 422¡V433.
+
+Ward, C., Bochner, S. & Furnham, A. (2001). The psychology of culture shock (2nd ed.). London: Routledge.
+
+Ward, C. & Kennedy, A. (1992). Locus of control, mood disturbance and social difficulty during cross-cultural transitions. International Journal of Intercultural Relations, 16, 175¡V194.
+
+Ward, C. & Kennedy, A. (1993a). Psychological and socio-cultural adjustment during cross-cultural transitions: A comparison of secondary students at home and abroad. International Journal of Psychology, 28, 129¡V147.
+
+Ward, C. & Kennedy, A. (1993b). Where¡¦s the culture in cross-cultural transition? Comparative studies of sojourner adjustment. Journal of Cross-Cultural Psychology, 24, 221¡V249.
+
+Ward,C., Leong, C-H., & Kennedy, A. (1998). Self construals, stress, coping and adjustment during cross-cultural transition. annual conference of the Society of Australasian Social psychologists, Christchurch, New Zealand.
+
+Wei, M., Heppner, P. P., Mallen, M. J., Ku, T.-Y., Liao, K. Y.-H. & Wu, T.-F. (2007). Acculturative stress, perfectionism, years in the United States, and depression among Chinese international students. Journal of Counseling Psychology, 54, 385¡V394.
+
+Wei, M., Ku, T.-Y., Russell, D. W., Mallinckrodt, B. & Liao, K. Y.-H. (2008). Moderating effects of three coping strategies and self-esteem on perceived discrimination and depressive symptoms: A minority stress model for Asian international students. Journal of Counseling Psychology, 55, 451¡V462.
+
+Westwood, M. J. & Barker, M. (1990). Academic achievement and social adaptation among international students: A comparison groups study of the peer-pairing program. International Journal of Intercultural Relations, 14, 251¡V263.
+
+Williams, C. L. & Berry, J. W. (1991). Primary prevention of acculturative stress among refugee. American Psychologist, 46, 632¡V641.
+
+Wilton, L. & Constantine, M. G. (2003). Length of residence, cultural adjustment difficulties, and psychological distress symptoms in Asian and Latin America international college students. Journal of College Counseling, 6, 177¡V186.
+
+Yang, B. & Clum, G. A. (1994). Life stress, social support, and problem-solving skills predictive of depressive symptoms, hopelessness, and suicide ideation in an Asian student population: A test of a model. Suicide and Life Threatening Behavior, 24, 127¡V139.
+
+Yang, B. & Clum, G. A. (1995). Measures of life stress and social support specific to an Asian student population. Journal of Psychopathology and Behavioral Assessment, 17, 51¡V67.
+
+Yeh, C. J. & Inose, M. (2003). International students¡¦ reported English fluency, social support satisfaction, and social connectedness as predictors of acculturative stress. Counselling Psychology Quarterly, 2003, 15¡V28.
+
+Yi, J. K., Lin, J.-C. G. & Kishimoto, Y. (2003). Utilization of counseling services by international students. Journal of Instructional Psychology, 30, 333¡V342. Ying, Y.-W. & Han, M. (2006). The contribution of personality, acculturative stressors, and social affiliation to adjustment: A longitudinal study of Taiwanese
+
+students in the United States. International Journal of Intercultural Relations, 30, 623¡V635.
+
+Ying, Y.-W. & Liese, L. H. (1990). Initial adaptation of Taiwan foreign students to the U.S.: The impact of pre-arrival variables. American Journal of Community Psychology, 18, 825¡V845.
+
+Ying, Y.-W. & Liese, L. H. (1991). Emotional well-being of Taiwan students in the U.S.: An examination of pre- to post-arrival differential. International Journal of Intercultural Relations, 15, 345¡V366.
+
+Ying, Y.-W. & Liese, L. H. (1994). Initial adjustment of Taiwanese students to the United States: The impact of postarrival variables. Journal of Cross-Cultural Psychology, 25, 466¡V477.
+
+Zhang, J. & Goodson, P. (2011). Predictors of international students¡¦ psychosocial adjustment to life in the United States: A systematic review. International Journal of Intercultural Relations, 35, 139¡V162.
+
+Zhang, N. & Dixon, D. N. (2003). Acculturation and attitudes of Asian international students toward seeking psychological help. Journal of Multicultural Counseling & Development, 31, 205¡V222.
+
+Zhang, Z. & Brunton, M. (2007). Differences in living and learning: Chinese international students in New Zealand. Journal of Studies in International Education, 11, 124¡V140.
+
+Zheng, X. & Berry, J. W. (1991). Psychological adaptation of Chinese sojourners in Canada. International Journal of Psychology, 26, 451¡V470.
+
+Zhou, Y., Jindal-Snape, D., Topping, K. & Todman, J. (2008). Theoretical models of culture shock and adaptation in international students in higher education.
+
+Studies in Higher Education, 33, 63¡V75.
